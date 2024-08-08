@@ -1,14 +1,14 @@
 <div align="center">
-  #### 🖥현재 공부중인 개발자입니다.
-  <h4 align="center"></h4>
+  
+  <h4>🖥현재 공부중인 개발자입니다.</h4>
 
 
-  #### Email: nnihs.dev@gmail.com
   <h4>Email: nnihs.dev@gmail.com</h4>
 
 
-  #### Skill
-  <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <h4>Skill</h4>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  
 </div>
 
 
