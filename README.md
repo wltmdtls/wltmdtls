@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <center>🖥현재 공부중인 개발자입니다.</center>
 
 <!--
