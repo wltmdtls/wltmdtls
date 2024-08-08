@@ -4,7 +4,7 @@
 
 
   #### Email: nnihs.dev@gmail.com
-  <h4 align="center">Email: nnihs.dev@gmail.com</h4>
+  <h4>Email: nnihs.dev@gmail.com</h4>
 
 
   #### Skill
