@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=edcdab&fontColor=f5f2f0&height=250&section=header&text=Seung's%20Hub&fontSize=70">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=eddbab&fontColor=f5f2f0&height=250&section=header&text=Seung's%20Hub&fontSize=70">
   <h3>🖥 현재 공부중인 개발자입니다.</h3>
 
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   </div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=eddbab&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d1edad&height=100&section=footer">
 </div>
 
 
