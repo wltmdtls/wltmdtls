@@ -1,13 +1,13 @@
 <div align="center">
-  
-  <h4>🖥현재 공부중인 개발자입니다.</h4>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=edcdab&fontColor=f5f2f0&height=250&section=header&text=Seung's%20Hub&fontSize=70">
+  <h3>🖥 현재 공부중인 개발자입니다.</h3>
 
 
   <h4>Email: nnihs.dev@gmail.com</h4>
 
 
-
-  <h5>Skill</h5>
+  <br>
+  <h4>🥚 Skill</h4>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flate-square&logo=Node.js&logoColor=white">
@@ -19,7 +19,8 @@
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   </div>
-  
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=eddbab&height=100&section=footer">
 </div>
 
 
