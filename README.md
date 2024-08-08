@@ -1,17 +1,16 @@
 <div align="center">
   #### 🖥현재 공부중인 개발자입니다.
+  <h4 align="center"></h4>
 
 
-  ####Email: nnihs.dev@gmail.com
+  #### Email: nnihs.dev@gmail.com
+  <h4 align="center">Email: nnihs.dev@gmail.com</h4>
 
 
-  ####Skill
+  #### Skill
   <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </div>
-<h4 align="center"></h4>
 
-
-<h4 align="center">Email: nnihs.dev@gmail.com</h4>
 
 <!--
 **wltmdtls/wltmdtls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
