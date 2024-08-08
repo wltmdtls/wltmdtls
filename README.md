@@ -1,7 +1,7 @@
 <h4 align="center">🖥현재 공부중인 개발자입니다.</h4>
 
 
-<h4>Email: nnihs.dev@gmail.com</h4>
+<h4 align="center">Email: nnihs.dev@gmail.com</h4>
 
 <!--
 **wltmdtls/wltmdtls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
