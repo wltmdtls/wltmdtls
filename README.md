@@ -1,5 +1,7 @@
 <center>🖥현재 공부중인 개발자입니다.</center>
 
+Email: nnihs.dev@gmail.com
+
 <!--
 **wltmdtls/wltmdtls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
